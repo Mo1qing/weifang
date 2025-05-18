@@ -19,8 +19,9 @@ body {
 }
 
 .box2 {
-    width: 1100px;
-    height: 500px;
+    width: 90%;
+    height: 75%;
+    padding: 20px;
     margin: 30px auto;
     overflow: hidden;
     position: relative;
